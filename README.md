@@ -38,10 +38,7 @@ bonus-project-team-2/
           ├── utils.py                        
      ├── server.py                            # Flask API Server
 ├── frontend                                  # Front End
-├── DIP_DEMO_PPT.ptx                          # PPT used in demo
-├── Project Proposal Team 2.pdf               # Project Proposal Document
 ├── README.MD                                 
-├── Team2-Final Report.pdf                    # Final Report PDF
 ├── UI_Execution_Instructions.pdf             # Steps regarding sample UI Execution workflow
 
 ```
@@ -49,7 +46,7 @@ bonus-project-team-2/
 ## Installation
 
 ```
-git clone https://github.com/UHCSDigitalImageProcessing/bonus-project-team-2.git
+git clone https://github.com/NohaHaneen/Geometric-Image-Transformation-Functions.git
 ```
 
 ### Front End Installation
